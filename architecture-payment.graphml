@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.24-->
+  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0" xml:space="preserve"/>
+    <node id="n0">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-op-api]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="167.8457414783934" width="406.1047843156957" x="1308.1452268897713" y="0.0"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.685546875" x="170.70961872034786" xml:space="preserve" y="74.5722848016967">Tgs.Op-Api<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-brand-certificate]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="74.18960161494311" width="224.5930776052992" x="1809.8935405624297" y="1348.01852015953"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.04296875" x="57.27505442764959" xml:space="preserve" y="27.74421486997153">tgs-brand-certificate<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-cashservice]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="34.80000000000001" width="93.19999999999999" x="1335.0916666666667" y="1575.308121774473"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.361328125" x="2.919335937499909" xml:space="preserve" y="8.049414062500091">tgs-cashservice<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-payment]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="324.22671766371485" width="493.46173399486634" x="1182.223101256535" y="415.8457414783934"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.029296875" x="211.71621855993317" xml:space="preserve" y="152.76277289435745">tgs-payment<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-playerbucket]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="41.0" width="145.0" x="520.7035714285714" y="1572.208121774473"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="138.05078125" x="3.474609375" xml:space="preserve" y="11.1494140625">Tgs.PlayerBucketServcie<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-promotion-service]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="49.89567821326568" width="123.3642578125" x="1289.1686647445435" y="1360.1654818603688"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.37109375" x="1.99658203125" xml:space="preserve" y="15.597253169132728">tgs-promotion-service<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-bo-api]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="192.3343361917008" width="338.41895373314173" x="785.2306024985085" y="1005.6841839678291"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.35546875" x="137.53174249157087" xml:space="preserve" y="86.81658215835046">Tgs.Bo-Api<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-gamewagers]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="31.193789154422348" width="94.46461433880481" x="793.7038039417088" y="1369.5164263897905"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.705078125" x="0.8797681069023611" xml:space="preserve" y="6.24630863971106">tgs-gamewagers<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-payment-manual-deposit]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="35.34817541181201" width="157.84685984426665" x="200.50037960167617" y="1367.4392332610955"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="156.07421875" x="0.8863205471333231" xml:space="preserve" y="8.323501768406004">tgs-payment-manual-deposit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-payment-background]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="110.27879743248235" width="356.7510585350117" x="651.3939151769385" y="28.78347202295552"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.0703125" x="107.34037301750584" xml:space="preserve" y="45.788812778741175">Tgs.Payment.Background<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-payment-scheduler]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="29.028236021461453" width="142.01407036309683" x="2334.4870124374993" y="1087.3372340529488"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="126.056640625" x="7.978714869048417" xml:space="preserve" y="5.163532073230726">tgs-payment-scheduler<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs.payment.withdrawlimit]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="99.55778584314248" width="224.5930776052992" x="1809.8935405624297" y="1052.0724591421083"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.373046875" x="35.61001536514959" xml:space="preserve" y="40.42830698407124">Tgs.Payment.WithdrawLimit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="111.75805137796299" width="216.04581169583903" x="269.1846338346202" y="1045.972326374698"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="185.4375" x="15.304155847919503" xml:space="preserve" y="44.07824443898153">tgs-payment-handling-fee<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d4" xml:space="preserve"><![CDATA[https://gitlab.com/rayprosoft/tgs-payment-alfapay]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="35.34817541181201" width="123.3642578125" x="2615.3190615699405" y="1367.4392332610955"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.044921875" x="4.65966796875" xml:space="preserve" y="8.323501768406004">Tgs.Payment.U2Pay<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n0" target="n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="169.21032679820655" sy="83.9228707391967" tx="31.066666666666606" ty="-17.40000000000009">
+            <y:Point x="1680.4079458458257" y="183.3457414783934"/>
+            <y:Point x="2939.1833333333334" y="183.3457414783934"/>
+            <y:Point x="2939.1833333333334" y="1437.708121774473"/>
+            <y:Point x="1412.7583333333332" y="1437.708121774473"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.041015625" x="883.7785146787428" xml:space="preserve" y="6.149406639526205">ICashServiceClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.7442146112338799" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-33.84206535964131" sy="83.9228707391967" tx="0.0" ty="-162.11335883185743">
+            <y:Point x="1477.3555536879778" y="183.3457414783934"/>
+            <y:Point x="1428.9539682539682" y="183.3457414783934"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="92.20703125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.748046875" x="-135.77564600384426" xml:space="preserve" y="60.094719139526205">IPaymentClient
+IPaymentServiceClient
+
+IMessageHandler HandleAsync
+tgs.payment.deposit.status_ex
+tgs.payment.withdraw.status_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="44.9835624826003" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n0" target="n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-169.21032679820655" sy="83.9228707391967" tx="-48.33333333333337" ty="-20.5">
+            <y:Point x="1341.9872922494126" y="183.3457414783934"/>
+            <y:Point x="0.0" y="183.3457414783934"/>
+            <y:Point x="0.0" y="1418.2874086729075"/>
+            <y:Point x="544.870238095238" y="1418.2874086729075"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.390625" x="-1036.7715333640251" xml:space="preserve" y="-1.2011792979737947">IPlayerBucketClient
+IPlayerBucketForTypesClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.7131782945736435" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n3" target="n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="164.48724466495543" sy="-162.11335883185743" tx="33.84206535964131" ty="83.9228707391967">
+            <y:Point x="1593.4412129189236" y="183.3457414783934"/>
+            <y:Point x="1545.0396844072604" y="183.3457414783934"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="-106.72455856545139" xml:space="preserve" y="-154.79924753527848">IMessageSender PublishAsync Subject
+tgs.payment.deposit.status_ex
+tgs.payment.withdraw.status_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n6" target="n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="67.68379074662835" sy="96.16716809585046" tx="-31.066666666666606" ty="-17.40000000000009">
+            <y:Point x="1022.1238701117077" y="1229.51852015953"/>
+            <y:Point x="1088.6686507936508" y="1229.51852015953"/>
+            <y:Point x="1088.6686507936508" y="1441.5611600736343"/>
+            <y:Point x="1350.625" y="1441.5611600736343"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.041015625" x="275.48065185546875" xml:space="preserve" y="282.8643284240536">ICashServiceClient
+ICashQueryClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n6" target="n7">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="96.1671680958504" tx="0.0" ty="-15.596894577211174">
+            <y:Point x="954.4400793650793" y="1245.51852015953"/>
+            <y:Point x="840.9361111111111" y="1245.51852015953"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.03515625" x="-169.52153049045137" xml:space="preserve" y="92.97303968091023">IGameWagersClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n6" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-84.60473843328543" sy="-96.1671680958504" tx="-185.04815024807482" ty="162.11335883185743">
+            <y:Point x="869.8353409317939" y="771.5724591421083"/>
+            <y:Point x="1243.9058180058935" y="771.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.3828125" x="169.35232593226306" xml:space="preserve" y="-250.78429134617295">IPaymentClient
+IPaymentServiceClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6203208556149733" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n6" target="n8">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-135.3675814932567" sy="96.1671680958504" tx="39.46171496106666" ty="-17.674087705906004">
+            <y:Point x="819.0724978718226" y="1213.51852015953"/>
+            <y:Point x="318.88552448487616" y="1213.51852015953"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n6" target="n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-67.68379074662835" sy="96.16716809585046" tx="0.0" ty="-20.5">
+            <y:Point x="886.756288618451" y="1229.51852015953"/>
+            <y:Point x="593.2035714285714" y="1229.51852015953"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.390625" x="-373.2480276925223" xml:space="preserve" y="175.29300846700153">IPlayerBucketClient
+IPlayerBucketForTypesClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n6" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="135.3675814932567" sy="96.1671680958504" tx="-46.2615966796875" ty="-24.94783910663284">
+            <y:Point x="1089.807660858336" y="1213.51852015953"/>
+            <y:Point x="1304.589196971106" y="1213.51852015953"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="132.71875" x="144.3180989980117" xml:space="preserve" y="-8.551792340470001">IPromotionClient
+IPromotionServiceClient
+IPromotionHistoryClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.9808917197452229" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n5" target="n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="30.841064453125" sy="24.94783910663284" tx="0.0" ty="-17.400000000000006"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.041015625" x="-53.02060549800217" xml:space="preserve" y="43.48652870189699">ICashServiceClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="10.0" distanceToCenter="false" position="center" ratio="0.2821539292965604" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n5" target="n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-30.841064453125" sy="24.94783910663284" tx="48.33333333333333" ty="-20.5">
+            <y:Point x="1320.0097291976685" y="1425.5611600736343"/>
+            <y:Point x="641.5369047619048" y="1425.5611600736343"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="159.390625" x="-684.9355643895675" xml:space="preserve" y="6.119143472071755">IPlayerBucketForTypesClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.8920625759264125" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n5" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="15.4205322265625" sy="-24.947839106632728" tx="-61.68271674935818" ty="162.11335883185745">
+            <y:Point x="1366.2714285714285" y="755.5724591421083"/>
+            <y:Point x="1367.27125150461" y="755.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.3828125" x="-61.69151705007744" xml:space="preserve" y="-633.1496991745705">IPaymentServiceClient
+
+payment.proto<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="10.0" distanceToCenter="false" position="center" ratio="0.586046511627907" segment="4"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n13" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="-17.674087705906004" tx="185.048150248075" ty="162.11335883185745">
+            <y:Point x="2677.0011904761905" y="771.5724591421083"/>
+            <y:Point x="1614.0021185020432" y="771.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.3828125" x="-241.61207235377105" xml:space="preserve" y="-612.5315447641417">IPaymentClient
+IPaymentServiceClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.16831683168316833" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n3" target="n13">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="226.16996141431378" sy="162.11335883185745" tx="24.6728515625" ty="-17.674087705906004">
+            <y:Point x="1655.123929668282" y="755.5724591421083"/>
+            <y:Point x="2719.123015873016" y="755.5724591421083"/>
+            <y:Point x="2719.123015873016" y="1117.3513520636795"/>
+            <y:Point x="2701.6740420386905" y="1117.3513520636795"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="218.787109375" x="937.156585984003" xml:space="preserve" y="353.2271455207108">IMessageSender RequestAsync Subject
+tgs.payment.u2pay.balance
+
+<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.0" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n0" target="n13">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="101.52619607892393" sy="83.9228707391967" tx="49.345703125" ty="-17.674087705906004">
+            <y:Point x="1612.723815126543" y="199.3457414783934"/>
+            <y:Point x="2744.7960317460315" y="199.3457414783934"/>
+            <y:Point x="2744.7960317460315" y="1133.3513520636795"/>
+            <y:Point x="2726.3468936011905" y="1133.3513520636795"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="92.20703125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="218.787109375" x="1022.678722175719" xml:space="preserve" y="109.77373213460379">AlfaPayDepositSettings
+AlfaPayDepositApplyInfo
+AlfaPayUtility
+
+IMessageSender RequestAsync Subject
+tgs.payment.u2pay.deposit<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.1331654261740866" segment="2"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n10" target="n13">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="14.514118010730726" tx="-24.6728515625" ty="-17.674087705906004">
+            <y:Point x="2405.4940476190477" y="1131.8654700744103"/>
+            <y:Point x="2652.3283389136905" y="1131.8654700744103"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.47265625" x="20.022439081100856" xml:space="preserve" y="-1.2011803162147316">IMessageSender PublishAsync Subject
+tgs.payment.u2pay.deposit.schedule.reject<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.55" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n3" target="n10">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="102.80452791559713" sy="162.11335883185743" tx="-35.50351759077421" ty="-14.514118010730726">
+            <y:Point x="1531.7584961695654" y="803.5724591421083"/>
+            <y:Point x="2369.9905300282735" y="803.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="182.11328125" x="747.1753444813985" xml:space="preserve" y="177.8306400545598">IMessageSender SendAsync
+tgs.payment.countdown.schedule<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="3"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n10" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.50351759077421" sy="-14.514118010730726" tx="143.926339081836" ty="162.11335883185743">
+            <y:Point x="2440.997565209822" y="787.5724591421083"/>
+            <y:Point x="1572.8803073358042" y="787.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.7109375" x="-84.31076633008115" xml:space="preserve" y="-309.0787859750793">payment.proto<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.05063291139240506" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="n3" target="n6">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-143.92633908183598" sy="162.11335883185743" tx="84.60473843328543" ty="-96.1671680958504">
+            <y:Point x="1285.0276291721323" y="787.5724591421083"/>
+            <y:Point x="1039.0448177983649" y="787.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="106.908203125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="-352.7073794672601" xml:space="preserve" y="97.17774531250893">IMessageSender PublishAsync Subject
+tgs.payment.deposit.approve
+
+IMessageSender SendAsync Subject
+tgs.payment.deposit.reject
+tgs.payment.withdraw.reject
+tgs.payment.withdraw.paid_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6459562303100314" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n11" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="-49.77889292157124" tx="20.560905583119393" ty="162.11335883185743">
+            <y:Point x="1922.1900793650793" y="835.5724591421083"/>
+            <y:Point x="1449.5148738370876" y="835.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.3828125" x="-439.2292659515783" xml:space="preserve" y="-233.1747332407042">IPaymentServiceClient
+payment.proto<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.7966101694915254" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="n11" target="n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="49.77889292157124" tx="0.0" ty="-37.09480080747156"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.048828125" x="-55.0243981739834" xml:space="preserve" y="83.09866071031934">IBrandServiceClient<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="10.0" distanceToCenter="true" position="center" ratio="0.4657404368725939" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="n0" target="n8">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-101.52619607892393" sy="83.9228707391967" tx="-39.46171496106666" ty="-17.674087705906004">
+            <y:Point x="1409.6714229686952" y="199.3457414783934"/>
+            <y:Point x="68.68452380952381" y="199.3457414783934"/>
+            <y:Point x="68.68452380952381" y="1173.230377752661"/>
+            <y:Point x="239.96209456274283" y="1173.230377752661"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.01171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.42578125" x="-1264.4221827810072" xml:space="preserve" y="986.730267543011">ManualDepositSerializer
+ManualDepositApplyInfo
+ManualDepositBankApplyInfo
+ManualDepositFpsApplyInfo
+ManualDepositThirdPartyApplyInfo
+ManualDepositEWalletApplyInfo
+ManualDepositPaymentReturn
+ManualDepositPulsaApplyInfo
+ManualDepositUsdtApplyInfo
+ManualDepositCoinsphApplyInfo<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" source="n3" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-246.73086699743317" sy="0.0" tx="-164.48724466495537" ty="-162.11335883185745">
+            <y:Point x="981.7231012565351" y="577.9591003102508"/>
+            <y:Point x="981.7231012565351" y="215.3457414783934"/>
+            <y:Point x="1264.4667235890129" y="215.3457414783934"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="239.21875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="252.16796875" x="-326.5350774544024" xml:space="preserve" y="-300.9160605509903">IMessageSender PublishAsync Subject
+tgs.payment.created
+tgs.payment.deposit.status_ex
+tgs.payment.withdraw.status_ex
+tgs.payment-channel.created
+tgs.payment-method-channel.changed
+tgs.payment-method.created
+tgs.player.bankinfo.added
+tgs.player.bankinfo.deleted
+
+IMessageSender SendAsync Subject
+tgs.player.bankinfo.rebuild
+tgs.payment.withdraw.external_id
+
+IMessageSender RequestAsync Subject
+tgs.payment.dispatch_balance.{paymentCode}<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" source="n3" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-102.80452791559719" sy="162.11335883185745" tx="-15.4205322265625" ty="-24.947839106632728">
+            <y:Point x="1326.149440338371" y="755.5724591421083"/>
+            <y:Point x="1324.1496031746033" y="755.5724591421083"/>
+            <y:Point x="1324.1496031746033" y="1117.3513520636795"/>
+            <y:Point x="1335.430261424231" y="1117.3513520636795"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="-108.72442026289673" xml:space="preserve" y="179.68828499742517">IMessageSender PublishAsync Subject
+tgs.payment.deposit.status_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="10.0" distanceToCenter="false" position="center" ratio="0.5" segment="2"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e25" source="n3" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-20.560905583119393" sy="162.11335883185745" tx="46.2615966796875" ty="-24.947839106632728">
+            <y:Point x="1408.393253968254" y="1117.3513520636795"/>
+            <y:Point x="1397.112390330481" y="1117.3513520636795"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="-118.00528545076895" xml:space="preserve" y="419.17179570723783">IMessageSender PublishAsync Subject
+tgs.payment.deposit.status_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.26499606716752916" segment="2"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e26" source="n3" target="n11">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="61.68271674935826" sy="162.11335883185743" tx="74.8643592017664" ty="-49.77889292157124">
+            <y:Point x="1490.6366850033264" y="819.5724591421083"/>
+            <y:Point x="1997.0544385668456" y="819.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="399.69311044184565" xml:space="preserve" y="164.23119352053413">IMessageSender PublishAsync Subject
+tgs.payment.withdraw.status_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.48118082954306995" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e27" source="n11" target="n11">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-112.2965388026496" sy="0.0" tx="-74.86435920176632" ty="-49.77889292157124">
+            <y:Point x="1609.3935405624297" y="1101.8513520636795"/>
+            <y:Point x="1609.3935405624297" y="851.5724591421083"/>
+            <y:Point x="1847.325720163313" y="851.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="218.787109375" x="-309.84461861725777" xml:space="preserve" y="-207.98538910419825">IMessageSender RequestAsync Subject
+tgs.payment.withdraw-limit.decrease
+tgs.payment.withdraw-limit.increase<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.734914809830333" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e28" source="n9" target="n9">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-178.37552926750584" sy="0.5" tx="0.5" ty="-55.139398716241175">
+            <y:Point x="450.89391517693855" y="84.4228707391967"/>
+            <y:Point x="450.89391517693855" y="-171.71652797704448"/>
+            <y:Point x="830.2694444444444" y="-171.71652797704448"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="121.609375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="-117.89330398206721" xml:space="preserve" y="-316.9440899277281">IMessageSender SendAsync Subject
+tgs.payment.background.player
+tgs.payment.background.5min
+tgs.payment.background.hour
+tgs.payment.background.agent
+tgs.payment.background.brand
+IMessageSender PublishAsync Subject
+tgs.payment.background.event.5min<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.4989313920288524" segment="2"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e29" source="n13" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-61.68212890625" sy="0.0" tx="-49.345703125" ty="-17.674087705906004">
+            <y:Point x="2414.8190615699405" y="1385.1133209670015"/>
+            <y:Point x="2414.8190615699405" y="1166.9392332610955"/>
+            <y:Point x="2627.6554873511905" y="1166.9392332610955"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.44921875" x="-307.17556733630954" xml:space="preserve" y="-148.69260452075673">IMessageSender PublishAsync Subject
+<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="1.2508668079140572" distanceToCenter="false" position="center" ratio="0.6386737296139786" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e30" source="n3" target="n12">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-226.16996141431366" sy="162.11335883185743" tx="0.0" ty="-55.87902568898149">
+            <y:Point x="1202.7840068396545" y="755.5724591421083"/>
+            <y:Point x="377.2075396825397" y="755.5724591421083"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="92.20703125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.748046875" x="-725.3423922804784" xml:space="preserve" y="-30.60350521336045">IPaymentClient
+IPaymentServiceClient
+
+IMessageHandler HandleAsync
+tgs.payment.deposit.status_ex
+tgs.payment.withdraw.status_ex<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="42.753400406178656" distanceToCenter="true" position="center" ratio="0.7727549699451814" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
